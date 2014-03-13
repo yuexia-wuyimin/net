@@ -7,7 +7,7 @@ import org.apache.commons.httpclient.HttpClient;
 import org.apache.commons.httpclient.methods.PostMethod;
 
 import com.Yim.json.WriteJson;
-
+//dad
 public class connFunction {
 	public String connUseHttpClient(List<?> wantToSend,String strutsAction){
 		HttpClient hc= new HttpClient();
