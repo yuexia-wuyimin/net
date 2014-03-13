@@ -14,8 +14,8 @@ public class Location {
 	public void setAgreeInvite(String agreeinvite){
 		this.agreeinvite=agreeinvite;
 	}
-	public int getBeadded(){
-		return beadded;
+	public int getBeadded(){ 
+		return beadded;//kj
 	}
 	public void setBeadded(int beadded){
 		this.beadded = beadded;
